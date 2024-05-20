@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/LuisIannelloDev">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=50&color=F71111&multiline=true&repeat=false&random=false&width=435&lines=Luis+Iannello" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines=Luis+Iannnello" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
