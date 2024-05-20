@@ -7,8 +7,8 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/LuisIannelloDev/readme-typing-svg">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&color=F71111&multiline=true&repeat=false&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines=Loading..." alt="Typing SVG" /></a></a>
-    
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&color=F71111&multiline=true&repeat=false&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines=Loading..." alt="Typing SVG" /></a>
 </p>
 
 
