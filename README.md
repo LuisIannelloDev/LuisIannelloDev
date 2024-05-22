@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a aling-items="center"><img src="https://avatars.sched.co/5/cb/8689106/avatar.jpg?9cc"></a>
+<a><img src="https://avatars.sched.co/5/cb/8689106/avatar.jpg?9cc"></a>
 </p>
   
 </p>
