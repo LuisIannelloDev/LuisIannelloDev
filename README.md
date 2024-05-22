@@ -3,9 +3,9 @@
   <a href="https://github.com/LuisIannelloDev">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines= 4Geeks+Academy+Student" alt="Typing SVG" /></a>
   
-</p align="center">
+<p align="center">
 <a aling-items="center"><img src="https://avatars.sched.co/5/cb/8689106/avatar.jpg?9cc"></a>
-<p>
+</p>
   
 </p>
 
