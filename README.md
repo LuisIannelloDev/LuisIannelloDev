@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a><img src="https://avatars.sched.co/5/cb/8689106/avatar.jpg?9cc"></a>
+<a><img src="https://media.licdn.com/dms/image/D560BAQFmDm4C6hymwQ/company-logo_200_200/0/1693577833799/4geeksacademy_logo?e=1724284800&v=beta&t=Oj0x5vz_Z6w6Y-2s4tasiTRM1vmnmBS2uMycAY1mbpQ"></a>
 </p>
   
 </p>
