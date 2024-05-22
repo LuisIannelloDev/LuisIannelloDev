@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a aling ="center"><img src="https://pbs.twimg.com/profile_images/1677095362752925696/y5KRnDyX_400x400.jpg"></a>
+<a aling ="center"><img src="https://pbs.twimg.com/profile_images/1677095362752925696/y5KRnDyX_200x200.jpg"></a>
 
 <p align="center">
   <a href="https://github.com/LuisIannelloDev">
