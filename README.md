@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines= 4Geeks+Academy+Student" alt="Typing SVG" /></a>
 </p>
     
-<a aling ="center"><img src="https://www.lascondes.cl/wp-content/uploads/2023/10/4GEEKS-ACADEMY-LOGO-200x200.jpg"></a>
+<a aling ="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2Fproducto-financiero%2Fseguros%2F%3Fo%3D4geeks-academy-hired-nn-rGmjMrIE&psig=AOvVaw0Omh84jO6uXCC8mbnVNdUG&ust=1716483560319000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiosdvdoYYDFQAAAAAdAAAAABA5"></a>
 
 <p align="center">
   <a href="https://github.com/LuisIannelloDev">
