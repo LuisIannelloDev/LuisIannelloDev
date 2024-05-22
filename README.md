@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=30&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines= 4Geeks+Academy+Student" alt="Typing SVG" /></a>
 </p>
     
-<a aling ="center"><img src="https://pbs.twimg.com/profile_images/1677095362752925696/y5KRnDyX_150x150.jpg"></a>
+<a aling ="center"><img src="https://www.lascondes.cl/wp-content/uploads/2023/10/4GEEKS-ACADEMY-LOGO-1024x909.jpg"></a>
 
 <p align="center">
   <a href="https://github.com/LuisIannelloDev">
